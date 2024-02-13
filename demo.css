@@ -53,7 +53,7 @@ header {
     max-width: 100%;
   }
 /* Media Query for screens less than 600px */
-@media screen and (max-width: 599px) {
+@media screen and (max-width: 600px) {
   .card {
       max-width: 100%; 
   }
